@@ -1,4 +1,4 @@
-[OMR 채점기.html](https://github.com/user-attachments/files/26581441/OMR.html)
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
